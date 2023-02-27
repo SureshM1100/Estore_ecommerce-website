@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Estore_ecommerce-website/static/css/main.8852b345.css",
+    "main.js": "/Estore_ecommerce-website/static/js/main.e6b69bc3.js",
+    "static/js/787.ae3507f6.chunk.js": "/Estore_ecommerce-website/static/js/787.ae3507f6.chunk.js",
+    "static/media/wristwatch.jpg": "/Estore_ecommerce-website/static/media/wristwatch.4d8897909e0a11909f54.jpg",
+    "static/media/banner.jpg": "/Estore_ecommerce-website/static/media/banner.ba20cc052f862851ceb1.jpg",
+    "static/media/prolistimg1.jpg": "/Estore_ecommerce-website/static/media/prolistimg1.e7a943d735e924f2235b.jpg",
+    "static/media/prolistimg3.jpg": "/Estore_ecommerce-website/static/media/prolistimg3.58a7c2ddb0ad9dfc9367.jpg",
+    "static/media/prolistimg2.jpg": "/Estore_ecommerce-website/static/media/prolistimg2.c2cda1bcc097321376a2.jpg",
+    "static/media/watch1.jpg": "/Estore_ecommerce-website/static/media/watch1.859a22ffe30f0c19eb40.jpg",
+    "static/media/watch2.jpg": "/Estore_ecommerce-website/static/media/watch2.eb6fc88a3e6adf070a10.jpg",
+    "static/media/watch3.jpg": "/Estore_ecommerce-website/static/media/watch3.edf32f295d2df7c83e77.jpg",
+    "index.html": "/Estore_ecommerce-website/index.html",
+    "main.8852b345.css.map": "/Estore_ecommerce-website/static/css/main.8852b345.css.map",
+    "main.e6b69bc3.js.map": "/Estore_ecommerce-website/static/js/main.e6b69bc3.js.map",
+    "787.ae3507f6.chunk.js.map": "/Estore_ecommerce-website/static/js/787.ae3507f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8852b345.css",
+    "static/js/main.e6b69bc3.js"
+  ]
+}
